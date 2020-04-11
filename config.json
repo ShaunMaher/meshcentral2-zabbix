@@ -1,0 +1,18 @@
+{
+  "name": "Zabbix Status Screens",
+  "shortName": "zabbix",
+  "version": "0.0.1",
+  "author": "Shaun Maher",
+  "description": "Add additional top level screens that display data pulled from the Zabbix API",
+  "hasAdminPanel": true,
+  "homepage": "https://github.com/ShaunMaher/meshcentral2-zabbix",
+  "changelogUrl": ""https://raw.githubusercontent.com/ShaunMaher/meshcentral2-zabbix/master/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/ShaunMaher/meshcentral2-zabbix/master/config.json",
+  "downloadUrl": "https://github.com/ShaunMaher/meshcentral2-zabbix/archive/master.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShaunMaher/meshcentral2-zabbix.git"
+  },
+  "versionHistoryUrl": "https://api.github.com/repos/ShaunMaher/meshcentral2-zabbix/tags",
+  "meshCentralCompat": ">=0.4.6-p"
+}
