@@ -6,7 +6,7 @@
   "description": "Add additional top level screens that display data pulled from the Zabbix API",
   "hasAdminPanel": true,
   "homepage": "https://github.com/ShaunMaher/meshcentral2-zabbix",
-  "changelogUrl": ""https://raw.githubusercontent.com/ShaunMaher/meshcentral2-zabbix/master/changelog.md",
+  "changelogUrl": "https://raw.githubusercontent.com/ShaunMaher/meshcentral2-zabbix/master/changelog.md",
   "configUrl": "https://raw.githubusercontent.com/ShaunMaher/meshcentral2-zabbix/master/config.json",
   "downloadUrl": "https://github.com/ShaunMaher/meshcentral2-zabbix/archive/master.zip",
   "repository": {
